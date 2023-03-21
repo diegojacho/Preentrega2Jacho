@@ -974,7 +974,7 @@
 .aboutus p{
     text-align: justify;
     width: 100%;
-    font-size: 30px;
+    font-size: 1.5vw;
     padding: 10px;
 }
 .contact{
@@ -982,6 +982,7 @@
     border-radius: 15px;
     padding: 10px;
     margin: 5px;
+    width: 100%;
 }
 
 .contact h2{
